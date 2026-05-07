@@ -9,7 +9,9 @@ A personal archive repository containing portable, ready-to-run project ZIPs for
 | File | Project | Description |
 |------|---------|-------------|
 | `poc_COMPLETE_FINAL.zip` | **Construction POC** | Full-stack Construction Project Management Platform (React + Node.js + SQLite) |
-| `sinfra_COMPLETE.zip` | **Sinfra Website** | Static HTML website — Sahasra Infra (electrical/civil manufacturing company) with gallery, machinery, services, products pages + all images |
+| `sinfra_COMPLETE.zip` | **Sinfra Website** | Static HTML website — Sahasra Infra (electrical/civil manufacturing) with all images |
+| `kbs-site_COMPLETE.zip` | **KBS Site** | Static HTML website — KBS company site with full image gallery, products, machinery, services pages |
+| `ssp_COMPLETE.zip` | **SSP Website** | Static HTML website — SSP company site with hero images, sectors, projects, business pages |
 
 ---
 
