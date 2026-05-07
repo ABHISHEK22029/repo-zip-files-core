@@ -15,6 +15,7 @@ A personal archive repository containing portable, ready-to-run project ZIPs for
 | `nova_connector_builder_COMPLETE.zip` | **Nova Connector Builder** | Agentic RAG pipeline — auto-generates Java LMS connectors using ChromaDB + Gemini AI (Python + FastAPI) |
 | `the-roastery-theme_COMPLETE.zip` | **The Roastery Shopify Theme** | Full premium Shopify theme — Liquid templates, sections, snippets, assets, locales for a luxury coffee DTC brand |
 | `coffee-store-theme_COMPLETE.zip` | **Coffee Store Theme (HTML)** | Standalone HTML/CSS version of the coffee store storefront with cinematic assets |
+| `shopify_theme_elite_LIVE_EXPORT.zip` | **Shopify Theme Elite (Live Export)** | Direct export from Shopify store `jgzkd0-bh.myshopify.com` — 08 May 2026 — the exact live theme code |
 
 ---
 
