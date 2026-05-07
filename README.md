@@ -13,6 +13,8 @@ A personal archive repository containing portable, ready-to-run project ZIPs for
 | `kbs-site_COMPLETE.zip` | **KBS Site** | Static HTML website — KBS company site with full image gallery, products, machinery, services pages |
 | `ssp_COMPLETE.zip` | **SSP Website** | Static HTML website — SSP company site with hero images, sectors, projects, business pages |
 | `nova_connector_builder_COMPLETE.zip` | **Nova Connector Builder** | Agentic RAG pipeline — auto-generates Java LMS connectors using ChromaDB + Gemini AI (Python + FastAPI) |
+| `the-roastery-theme_COMPLETE.zip` | **The Roastery Shopify Theme** | Full premium Shopify theme — Liquid templates, sections, snippets, assets, locales for a luxury coffee DTC brand |
+| `coffee-store-theme_COMPLETE.zip` | **Coffee Store Theme (HTML)** | Standalone HTML/CSS version of the coffee store storefront with cinematic assets |
 
 ---
 
