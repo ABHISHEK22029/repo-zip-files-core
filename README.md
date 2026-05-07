@@ -8,7 +8,8 @@ A personal archive repository containing portable, ready-to-run project ZIPs for
 
 | File | Project | Description |
 |------|---------|-------------|
-| `poc_COMPLETE_FINAL.zip` | **Construction POC** | Full-stack Construction Project Management Platform |
+| `poc_COMPLETE_FINAL.zip` | **Construction POC** | Full-stack Construction Project Management Platform (React + Node.js + SQLite) |
+| `sinfra_COMPLETE.zip` | **Sinfra Website** | Static HTML website — Sahasra Infra (electrical/civil manufacturing company) with gallery, machinery, services, products pages + all images |
 
 ---
 
