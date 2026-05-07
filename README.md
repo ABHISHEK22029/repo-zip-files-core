@@ -12,6 +12,7 @@ A personal archive repository containing portable, ready-to-run project ZIPs for
 | `sinfra_COMPLETE.zip` | **Sinfra Website** | Static HTML website — Sahasra Infra (electrical/civil manufacturing) with all images |
 | `kbs-site_COMPLETE.zip` | **KBS Site** | Static HTML website — KBS company site with full image gallery, products, machinery, services pages |
 | `ssp_COMPLETE.zip` | **SSP Website** | Static HTML website — SSP company site with hero images, sectors, projects, business pages |
+| `nova_connector_builder_COMPLETE.zip` | **Nova Connector Builder** | Agentic RAG pipeline — auto-generates Java LMS connectors using ChromaDB + Gemini AI (Python + FastAPI) |
 
 ---
 
